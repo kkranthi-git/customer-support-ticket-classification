@@ -187,7 +187,7 @@ http://localhost:8501
 
 Local Setup
 Clone the Repository
-git clone <YOUR_REPOSITORY_URL>
+git clone  https://github.com/kkranthi-git/customer-support-ticket-classification.git
 cd customer-support-ticket-classification
 
 Create Virtual Environment
