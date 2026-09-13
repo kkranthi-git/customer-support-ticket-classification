@@ -236,6 +236,6 @@ Author
 
 Kranthi Kumar
 
-Aspiring Data Scientist | Machine Learning | NLP | AI Engineering
+ Data Scientist | Machine Learning | NLP | AI Engineering
 
 Skills: Python • Machine Learning • NLP • SQL • Data Analysis • Scikit-learn • Streamlit • Docker
